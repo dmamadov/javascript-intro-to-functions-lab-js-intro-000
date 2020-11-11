@@ -24,7 +24,7 @@ function sayHiToGrandma(string) {
       break;
     case "I love you, Grandma!":
       console.log("I love you, too.")
-      break;  
+      break;
   }
 
 }
